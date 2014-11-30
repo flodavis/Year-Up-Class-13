@@ -3,9 +3,12 @@ Year Up Class 13
 
 ##Intro to Programming (JS 101, JavaScript )- for Year Up Class 13
 
-Introduction to Programming, with JavaScript
-Instructor: Florence Davis
+**Introduction to Programming, with JavaScript**
+
+**Instructor:** Florence Davis
+
 Wednesdays, 5 - 7pm, 12 sessions
+
 Course Materials: Learning to Program - by Steven Foote
 
 Each class will consist of roughly 1 hour of lecture, with 1 hour of hands on lab work.
