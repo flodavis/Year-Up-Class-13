@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	<canvas id="myCanvas" width="500" height="500"></canvas>
+	<script>
+	var theCanvas = document.getElementById('myCanvas');
+	c=theCanvas.getContext('2d');
+	time=0;
+
+	var render = function() {
+		c.clearRect(0,0,theCanvas.width,theCanvas.height);
+		var i,
+			x = time,
+			y=0,
+			w=10,
+			h=10,
+			numRectangles = 100;
+
+			for(i=0;i<numRectangles;i++) {
+				y=i;
+				c.fillStyle='blue';
+				c.fillRect(x,y,w,h);
+			}
+
+			time += 1;
+	}
+	setInterval(render, 20);
+	</script>
+	
+</body>
+</html>
