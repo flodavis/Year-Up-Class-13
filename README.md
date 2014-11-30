@@ -9,7 +9,7 @@ Year Up Class 13
 
 Wednesdays, 5 - 7pm, 12 sessions
 
-Course Materials: Learning to Program - by Steven Foote
+**Course Materials:** Learning to Program - by Steven Foote
 
 Each class will consist of roughly 1 hour of lecture, with 1 hour of hands on lab work.
 
