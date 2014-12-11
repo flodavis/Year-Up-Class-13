@@ -53,12 +53,7 @@ Hands on: Extend the program from last week to ask name and age, and if the user
 
 Hands on: Draw squares on the screen. Can you make them move?
 
-##Session 5 - Hello, Function Constructors.
-1.	Introduction to the `new` operator
-2.	What is `this` in JavaScript?
-3.	Methods, functions, and properties
-
-Hands on: Extend the application from last week. Draw several squares, with random sizes. Make them move.
+##Session 5 - Exploring the DOM.
 
 ##Session 6 - Hello, DOM Events.
 1.	What is the DOM?
