@@ -35,7 +35,16 @@ Session 2B - Hello, Browser.
 
 Hands on: Create a JavaScript application that will ask a user for their name and age. Use window.alert() to display some output to the user.
 
-##Session 3 - Hello, JavaScript.
+##Session 3 - Hello, Canvas.
+1.	What is Canvas?
+2.	Drawing rectangles
+3.	Changing color
+4.	Printing text
+5.	Resizing the viewport
+
+Hands on: Draw squares on the screen. Can you make them move?
+
+##Session 4 - Hello, JavaScript.
 1.	Variables
 2.	Functions
 3.	Types: strings, numbers, arrays, booleans, objects
@@ -44,14 +53,6 @@ Hands on: Create a JavaScript application that will ask a user for their name an
 
 Hands on: Extend the program from last week to ask name and age, and if the user is under 18, print the message “You are young!”, in addition to the greeting. Explore how using functions can make this program more flexible.
 
-##Session 4 - Hello, Canvas.
-1.	What is Canvas?
-2.	Drawing rectangles
-3.	Changing color
-4.	Printing text
-5.	Resizing the viewport
-
-Hands on: Draw squares on the screen. Can you make them move?
 
 ##Session 5 - Exploring the DOM.
 
