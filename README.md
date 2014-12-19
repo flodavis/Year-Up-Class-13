@@ -55,12 +55,14 @@ Hands on: Extend the program from last week to ask name and age, and if the user
 
 
 ##Session 5 - Exploring the DOM.
+1.	What is the DOM?
+2.	How to Interactive with the DOM
 
 ##Session 6 - Hello, DOM Events.
-1.	What is the DOM?
-2.	What are events?
-3.	Getting user input: keyboard events
-4.	Getting user input: mouse events
+
+1.	What are events?
+2.	Getting user input: keyboard events
+3.	Getting user input: mouse events
 
 Hands on: Let the user move a single square around the screen with keyboard and mouse.
 
