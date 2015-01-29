@@ -7,7 +7,7 @@ Year Up Class 13
 
 **Instructor:** Florence Davis
 
-Thursdays, 5 - 7pm, 12 sessions
+Wednesdays, 5 - 7pm, 12 sessions
 
 **Course Materials:** Learning to Program - by Steven Foote
 
